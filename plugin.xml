@@ -36,7 +36,7 @@
             locationURI="menu:org.eclipse.ui.main.menu?after=additions">
          <menu
                id="vocalreconnaissanceplugin.menus.sampleMenu"
-               label="Sample Menu"
+               label="Blala"
                mnemonic="M">
             <command
                   commandId="vocalreconnaissanceplugin.commands.sampleCommand"
