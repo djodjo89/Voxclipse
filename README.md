@@ -8,6 +8,8 @@ https://darylrobotproject.wordpress.com/2012/09/21/hes-alive-reconnaissance-et-s
 
 REMARQUE POUR PLUS TARD ET IDEES : 
 
-- Au demmarage du plu-in -> liste simple des mots que la personne peut dire.
+- Au demmarage du plug-in -> liste simple des mots que la personne peut dire.
 - A l'annonce de l'un de ces mots , une action s'executera
 - Modifier fichiers Eclipse de raccourci clavier ? 
+- Une phrase similaire à "OK GOOGLE"  pour pouvoir lancer le plugin
+
